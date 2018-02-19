@@ -1,2 +1,2 @@
 # Titanic
-A very basic machine learning tutorial to visualize survival on the Titanic based on certain parameters.
+A very basic tutorial to clean/visualize survival data on the Titanic based on certain parameters.
